@@ -2,10 +2,15 @@
 
 ### WELCOME TO MY GITHUB 👋👋👋
 
+<h3>My name is Bruno</h3>
+
+:house: I'm living in Pirapozinho-SP, a small city in Brazil
+:computer: Currently studying full-stack web development on Trybe
+
 <div align="center">
   <a href="https://github.com/brunokian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunokian&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokian&layout=compact&langs_count=7&theme=codeSTACKr"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunokian&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunokian&layout=compact&langs_count=7&theme=codeSTACKr"/>
 </div>
 
 <!--
