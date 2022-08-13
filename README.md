@@ -1,4 +1,4 @@
-<h1 align= "center"><b>Hello World! :earth_asia:</b></h1>
+<h1 align= "center"><b>Hello World! :earth_south_amerika:</b></h1>
 
 ### WELCOME TO MY GITHUB 👋👋👋
 
