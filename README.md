@@ -1,10 +1,11 @@
-<h1 align= "center"><b>Hello World! :earth_south_amerika:</b></h1>
+<h1 align= "center"><b>Hello World! :earth_americas:</b></h1>
 
 ### WELCOME TO MY GITHUB 👋👋👋
 
-<h3>My name is Bruno</h3>
+<h3>My name is Bruno,</h3>
 
 :house: I'm living in Pirapozinho-SP, a small city in Brazil
+
 :computer: Currently studying full-stack web development on Trybe
 
 <div align="center">
