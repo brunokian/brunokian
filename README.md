@@ -4,7 +4,7 @@
 
 <h3>My name is Bruno,</h3>
 
-:house: I'm living in Pirapozinho-SP in Brazil
+:house: I'm living in Pirapozinho-SP,Brazil
 
 :computer: Currently studying full-stack web development on Trybe
 
