@@ -28,8 +28,13 @@
 
 <div>
   <a href="https://github.com/brunokian">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  </a>
+    <a href="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript" target="_blank"><img src="https://img.shields.io/badge/-Javascript-05122A?style=for-the-badge&logo=javascript">
+    <a href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
+    <a href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
+    <a href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
+    <a href="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5"></a>
+    <a href="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" target="_blank"><img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3"></a>
+    </a>
 </div>
 
 ##
