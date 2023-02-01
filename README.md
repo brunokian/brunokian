@@ -26,6 +26,12 @@
   <code><img src="https://cdn.svgporn.com/logos/mysql-icon.svg" alt="mySQL" width="40" height="40"/></code>&nbsp;
 </p>
 
+<div>
+  <a href="https://github.com/brunokian">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+</div>
+
 ##
 
 <div align="center">
