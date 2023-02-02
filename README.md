@@ -45,6 +45,7 @@
     <a href="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript" target="_blank"><img src="https://img.shields.io/badge/-testing library-05122A?style=for-the-badge&logo=testing library">
     <a href="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript" target="_blank"><img src="https://img.shields.io/badge/-mocha-05122A?style=for-the-badge&logo=mocha">
     <a href="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript" target="_blank"><img src="https://img.shields.io/badge/-chai-05122A?style=for-the-badge&logo=chai">
+    <a href="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript" target="_blank"><img src="https://img.shields.io/badge/-pytest-05122A?style=for-the-badge&logo=pytest">
 </div>
       
 <div>
