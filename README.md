@@ -26,6 +26,22 @@
   <code><img src="https://cdn.svgporn.com/logos/mysql-icon.svg" alt="mySQL" width="40" height="40"/></code>&nbsp;
 </p>
 
+<div>
+    <a href="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript" target="_blank"><img src="https://img.shields.io/badge/-javascript-05122A?style=for-the-badge&logo=javascript">
+    <a href="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript" target="_blank"><img src="https://img.shields.io/badge/-typescript-05122A?style=for-the-badge&logo=typescript">
+    <a href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" target="_blank"><img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python">
+    <a href="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5"></a>
+    <a href="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" target="_blank"><img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3"></a>
+</div>
+
+<div>
+    <a href="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" target="_blank"><img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5"></a>
+    <a href="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3" target="_blank"><img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=css3"></a>
+    <a href="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript" target="_blank"><img src="https://img.shields.io/badge/-framer-motion-05122A?style=for-the-badge&">
+    <a href="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript" target="_blank"><img src="https://img.shields.io/badge/-react-05122A?style=for-the-badge&logo=react">
+    <a href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" target="_blank"><img src="https://img.shields.io/badge/-sequelize-05122A?style=for-the-badge&logo=sequelize">
+</div>
+
 
 ##
 
