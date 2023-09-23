@@ -6,7 +6,7 @@
 
 :house: I'm living in Pirapozinho-SP, Brazil
 
-:computer: Currently studying full-stack web development on Trybe
+:computer: Currently, Im a freelancer web developer
 
 <a href="https://www.linkedin.com/in/brunokian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
