@@ -4,11 +4,11 @@
 
 <h3>My name is Bruno,</h3>
 
-:house: I'm living in Pirapozinho-SP, Brazil
+:house: I'm living in Brasilia-DF, Brazil
 
-:computer: Currently, Im a freelancer web developer
+:computer: Im a Dev from Banco do Brasil
 
-here is my email: brunokian@hotmail.com
+Here is my email: brunokian@hotmail.com
 
 <a href="https://www.linkedin.com/in/brunokian/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
